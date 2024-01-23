@@ -11,8 +11,15 @@ Hello there! I'm an aspiring Data Analyst currently studying at Foreign Trade Un
 
 ## Projects
 You'll find some of projects here showcasing my analytical capabilities:
-- [Superstore-Sales-Dashboard](https://github.com/khoiphungminh/Superstore-Sales-Dashboard): This project features a comprehensive analysis of sales data, highlighting my skills in dashboard designing and data visualization techniques. It offers an in-depth look into various sales metrics, leveraging Power BI to create an interactive and informative dashboard.
-- [E-Commerce-Customer-Churn-Analysis](https://github.com/khoiphungminh/E-Commerce-Customer-Churn-Analysis): A project focusing on predicting customer churn in an e-commerce setting. It demonstrates my ability in using machine learning algorithms for predictive modeling and includes a detailed analysis of customer behavior patterns to identify churn risks. This work underscores my skills in both data analysis and developing actionable business insights.
+- [Explore Ecommerce Dataset](https://github.com/khoiphungminh/Explore-E-Commerce-Dataset) – SQL, BigQuery
+Using SQL in BigQuery for efficient data management in the E-commerce sector, as well as integrating data from various worksheets to produce a thorough and accurate sales statistics report of the ecommerce sector.
+- [AdventureWorks Sales Analysis](https://github.com/khoiphungminh/Adventure-Works-Sales-Dashboard) - PowerBI
+Selecting appropriate visualizations to display various metrics and structuring them effectively to narrate a compelling, actionable story was key in addressing critical issues and providing insightful facts from the company’s sales dashboard.
+- [RFM Analysis](https://github.com/khoiphungminh/Retail-Customer-RFM-Analysis) - Python
+Utilizing tools like Numpy, Matplot, Pandas, Seaborn, and Squarify in Python to uncover meaningful insights through RFM analysis. From the result, solutions were proposed for more effective business strategies.
+- [E-Commerce Customer Churn Prediction](https://github.com/khoiphungminh/E-Commerce-Customer-Churn-Analysis) – Machine Learning
+Involveing developing a machine learning model aimed at predicting customer churn. By leveraging predictive analytics, the model identifies key factors that contribute to customer attrition, allowing for effective strategies, enhancing the business's sustainability.
+
 
 ## Learning and Growth
 I'm continuously learning and expanding my skillset, currently focusing on the 3 most used skills, including SQL, PowerBI and Python. Moreover, I'm looking forward to have a thorough understanding in R as well.
